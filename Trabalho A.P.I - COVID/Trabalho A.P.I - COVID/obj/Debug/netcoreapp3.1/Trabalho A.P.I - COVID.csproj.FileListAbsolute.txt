@@ -1,0 +1,20 @@
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\bin\Debug\netcoreapp3.1\appsettings.json
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\bin\Debug\netcoreapp3.1\Trabalho A.P.I - COVID.exe
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\bin\Debug\netcoreapp3.1\Trabalho A.P.I - COVID.deps.json
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\bin\Debug\netcoreapp3.1\Trabalho A.P.I - COVID.runtimeconfig.json
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\bin\Debug\netcoreapp3.1\Trabalho A.P.I - COVID.runtimeconfig.dev.json
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\bin\Debug\netcoreapp3.1\Trabalho A.P.I - COVID.dll
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\bin\Debug\netcoreapp3.1\Trabalho A.P.I - COVID.pdb
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\obj\Debug\netcoreapp3.1\Trabalho A.P.I - COVID.csprojAssemblyReference.cache
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\obj\Debug\netcoreapp3.1\Trabalho A.P.I - COVID.AssemblyInfoInputs.cache
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\obj\Debug\netcoreapp3.1\Trabalho A.P.I - COVID.AssemblyInfo.cs
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\obj\Debug\netcoreapp3.1\Trabalho A.P.I - COVID.csproj.CoreCompileInputs.cache
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\obj\Debug\netcoreapp3.1\Trabalho A.P.I - COVID.MvcApplicationPartsAssemblyInfo.cache
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\obj\Debug\netcoreapp3.1\Trabalho A.P.I - COVID.RazorTargetAssemblyInfo.cache
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\obj\Debug\netcoreapp3.1\staticwebassets\Trabalho A.P.I - COVID.StaticWebAssets.Manifest.cache
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\obj\Debug\netcoreapp3.1\staticwebassets\Trabalho A.P.I - COVID.StaticWebAssets.xml
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\obj\Debug\netcoreapp3.1\Trabalho A.P.I - COVID.dll
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\obj\Debug\netcoreapp3.1\Trabalho A.P.I - COVID.pdb
+D:\4º período\API\Trabalho A.P.I\Trabalho A.P.I - COVID\Trabalho A.P.I - COVID\obj\Debug\netcoreapp3.1\Trabalho A.P.I - COVID.genruntimeconfig.cache
